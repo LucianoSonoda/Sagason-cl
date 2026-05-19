@@ -16,7 +16,7 @@ We take security very seriously and will address the issue as soon as possible.
 When reporting a vulnerability, please include as much information as possible to help us reproduce and fix the issue. Please include the following:
 
 - **Description:** A clear description of the vulnerability.
-- **Steps to reproduce:** Detailed steps to reproduce the vulnerability.
+- **Steps to reproduce:** Detailed steps to reproduce the vulnerability (e.g., a Proof of Concept script, code, or screenshots).
 - **Expected behavior:** What you expected to happen.
 - **Actual behavior:** What actually happened.
 - **Impact:** The potential impact of the vulnerability.

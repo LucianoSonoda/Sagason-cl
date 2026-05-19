@@ -11,3 +11,13 @@
 
 Please report security vulnerabilities directly to the maintainers of this repository via email at `security@example.com`. Do not open public issues for security vulnerabilities.
 We take security very seriously and will address the issue as soon as possible.
+
+### What to include in your report
+When reporting a vulnerability, please include as much information as possible to help us reproduce and fix the issue. Please include the following:
+
+- **Description:** A clear description of the vulnerability.
+- **Steps to reproduce:** Detailed steps to reproduce the vulnerability.
+- **Expected behavior:** What you expected to happen.
+- **Actual behavior:** What actually happened.
+- **Impact:** The potential impact of the vulnerability.
+- **Environment:** Information about your environment (e.g., OS, browser version, application version).

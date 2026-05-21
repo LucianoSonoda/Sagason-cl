@@ -11,7 +11,7 @@
 
 Please report security vulnerabilities directly to the maintainers of this repository via email at `security@example.com`. Do not open public issues for security vulnerabilities.
 
-For sensitive vulnerability reports, we recommend encrypting your email using PGP. You can find our public key on standard keyservers or contact us for more information.
+For sensitive vulnerability reports, we recommend encrypting your email using PGP. You can find our public key (Fingerprint: [INSERT_FINGERPRINT]) on keys.openpgp.org or contact us for more information.
 
 ## Disclosure Policy
 

@@ -11,6 +11,14 @@
 
 Please report security vulnerabilities directly to the maintainers of this repository via email at `security@example.com`. Do not open public issues for security vulnerabilities.
 
+For sensitive vulnerability reports, we recommend encrypting your email using PGP. You can find our public key (Fingerprint: [INSERT_FINGERPRINT]) on keys.openpgp.org or contact us for more information.
+
+## Disclosure Policy
+
+We follow a coordinated disclosure policy. We request that you:
+- Do not disclose the vulnerability publicly or to any third party until we have released a fix.
+- Give us a reasonable amount of time to investigate and mitigate the issue before making any public disclosure.
+
 When reporting a vulnerability, please include as much of the following information as possible:
 - A description of the vulnerability and its potential impact.
 - The version(s) of the project affected.

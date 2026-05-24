@@ -7,6 +7,21 @@
 | 1.0.x   | :white_check_mark: |
 | < 1.0   | :x:                |
 
+## Scope
+
+We accept vulnerability reports for:
+- Remote Code Execution (RCE)
+- Cross-Site Scripting (XSS)
+- SQL Injection (SQLi)
+- Authentication and Authorization bypass
+- Server-Side Request Forgery (SSRF)
+
+**Out of Scope:**
+- Denial of Service (DoS) / Distributed Denial of Service (DDoS)
+- Social engineering (phishing, vishing, etc.)
+- Physical attacks against our facilities
+- Issues that do not show a clear security impact
+
 ## Reporting a Vulnerability
 
 Please report security vulnerabilities directly to the maintainers of this repository via email at `security@example.com`. Do not open public issues for security vulnerabilities.
@@ -24,7 +39,7 @@ When reporting a vulnerability, please include as much of the following informat
 - The version(s) of the project affected.
 - Detailed steps to reproduce the issue, including any necessary configuration or code snippets.
 
-We take security very seriously and will address the issue as soon as possible.
+We take security very seriously and will address the issue as soon as possible. We aim to acknowledge receipt of vulnerability reports within 48 hours and will provide regular updates on the resolution progress.
 
 ### What to include in your report
 When reporting a vulnerability, please include as much information as possible to help us reproduce and fix the issue. Please include the following:

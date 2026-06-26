@@ -9,7 +9,7 @@
 
 ## Reporting a Vulnerability
 
-Please report security vulnerabilities directly to the maintainers of this repository via email at `security@example.com`. Do not open public issues for security vulnerabilities.
+Please report security vulnerabilities directly to the maintainers of this repository via email at `ventas@sagason.cl`. Do not open public issues for security vulnerabilities.
 
 For sensitive vulnerability reports, we recommend encrypting your email using PGP. You can find our public key (Fingerprint: [INSERT_FINGERPRINT]) on keys.openpgp.org or contact us for more information.
 

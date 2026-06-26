@@ -1,0 +1,5 @@
+🛡️ Sentinel: [Low] Fix Placeholder Email Address in Security Policy
+
+🎯 What: Replaced the placeholder email `security@example.com` with the actual project email `ventas@sagason.cl` and removed the placeholder PGP fingerprint section.
+⚠️ Risk: Having a placeholder email prevents users from reporting security vulnerabilities, which could leave the project exposed to unpatched vulnerabilities.
+🛡️ Solution: Updated `SECURITY.md` with the correct contact information and removed the unused PGP section since no fingerprint was available.

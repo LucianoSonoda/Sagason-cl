@@ -11,7 +11,6 @@
 
 Please report security vulnerabilities directly to the maintainers of this repository via email at `ventas@sagason.cl`. Do not open public issues for security vulnerabilities.
 
-
 ## Disclosure Policy
 
 We follow a coordinated disclosure policy. We request that you:

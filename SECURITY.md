@@ -17,11 +17,6 @@ We follow a coordinated disclosure policy. We request that you:
 - Do not disclose the vulnerability publicly or to any third party until we have released a fix.
 - Give us a reasonable amount of time to investigate and mitigate the issue before making any public disclosure.
 
-When reporting a vulnerability, please include as much of the following information as possible:
-- A description of the vulnerability and its potential impact.
-- The version(s) of the project affected.
-- Detailed steps to reproduce the issue, including any necessary configuration or code snippets.
-
 We take security very seriously and will address the issue as soon as possible.
 
 ### What to include in your report

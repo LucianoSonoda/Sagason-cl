@@ -24,6 +24,16 @@ When reporting a vulnerability, please include as much of the following informat
 
 We take security very seriously and will address the issue as soon as possible.
 
+## Response Timeline
+
+- **Initial Response:** Within 48 hours of receiving the report.
+- **Status Updates:** Every 5 days until resolution.
+- **Resolution:** We aim to fix critical issues within 30 days.
+
+## Safe Harbor
+
+We consider activities conducted consistent with this policy to constitute "authorized" conduct under the Computer Fraud and Abuse Act, the DMCA, and other applicable laws. We will not bring legal action against anyone who submits a vulnerability report in good faith and complies with our disclosure policy.
+
 ### What to include in your report
 When reporting a vulnerability, please include as much information as possible to help us reproduce and fix the issue. Please include the following:
 
